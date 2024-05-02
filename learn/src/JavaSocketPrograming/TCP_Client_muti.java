@@ -9,7 +9,7 @@ public class TCP_Client_muti {
     public static void main(String[] args) throws IOException {
         Scanner input = new Scanner(System.in);
         //创建Socket对象同时连接服务端的主机和端口号
-        Socket socket = new Socket("127.0.0.1",10000);
+        Socket socket = new Socket("127.0.0.1",10086);
         //如果连接成功就可以获取输出流
         OutputStream os = socket.getOutputStream();
         while (true) {
