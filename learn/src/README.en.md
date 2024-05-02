@@ -6,10 +6,10 @@ java练习
 #### Software Architecture
 Software architecture description
 
-#### Installation
+##Installation##
 
-1.  xxxx
-2.  xxxx
+1. xxxx
+2.  xxxx 
 3.  xxxx
 
 #### Instructions
