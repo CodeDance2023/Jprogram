@@ -1,4 +1,4 @@
-package test_1;
+package test1;
 //import j
 // ----ava.util.Scanner;
 ////public class HelloWorld{

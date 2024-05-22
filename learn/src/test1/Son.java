@@ -1,4 +1,4 @@
-package test_1;
+package test1;
 
 
 import classroom.Fu;

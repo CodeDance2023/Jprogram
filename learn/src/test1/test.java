@@ -1,4 +1,4 @@
-//package test_1;
+//package practice.test_1;
 //import java.util.Scanner;         //导入包
 //
 //public class test {
