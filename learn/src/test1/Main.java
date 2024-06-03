@@ -23,3 +23,22 @@
 //
 //
 //
+
+package test1;
+class Stu{
+    static void show(){
+        System.out.println(1);
+    }
+    void method(){
+        show();
+    }
+}
+public class Main {
+    public static void main(String[] args) {
+        System.out.println(1);
+        Stu s = new Stu();
+        s.method();
+    }
+
+}
+
