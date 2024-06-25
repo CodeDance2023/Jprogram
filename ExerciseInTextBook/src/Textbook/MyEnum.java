@@ -1,4 +1,4 @@
-package P8_15;
+package Textbook;
 
 public enum MyEnum {
     Mon("1"), Tue("2"), Wen("3"), Thu("4"),

@@ -1,4 +1,4 @@
-package P8_15;
+package Textbook;
 
 public class P8_15Main {
     public static void main(String[] args) {
